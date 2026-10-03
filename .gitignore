@@ -1,0 +1,19 @@
+# macOS 系统自动生成的文件夹元数据
+.DS_Store
+
+# macOS 生成的资源分支文件
+._*
+
+# 编辑器临时文件（vim）
+*.swp
+*.swo
+
+# 日志文件
+*.log
+
+# Node 依赖
+node_modules/
+
+# Python 缓存
+__pycache__/
+*.pyc
